@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chartiose Tool Kit</string>
+    <string name="chose_directory">选择文件目录</string>
+    <string name="delete_duplicated_files">删除重复文件</string>
+</resources>
